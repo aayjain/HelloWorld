@@ -1,2 +1,2 @@
 # HelloWorld
-Simple Class Example
+- Demonstrating Simple Python Class Example
